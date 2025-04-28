@@ -1,7 +1,9 @@
 ### Hello 👋, I'm Kübra Demirkaya!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kubrademirkaya&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrademirkaya&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kubrademirkaya&theme=dark)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrademirkaya&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubrademirkaya&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -28,7 +30,8 @@
 
 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubragulgundemirkaya/)
-[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://kubrademirkaya.medium.com/)
+[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://kubrademirkaya.medium.com/)  
+
 📈 My GitHub Stats:
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubrademirkaya&show_icons=true&theme=dark)](https://github.com/kubrademirkaya)
 
