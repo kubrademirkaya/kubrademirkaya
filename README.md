@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubragulgundemirkaya/)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://kubrademirkaya.medium.com/)
 📈 My GitHub Stats:
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)](https://github.com/kubrademirkaya)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubrademirkaya&show_icons=true&theme=dark)](https://github.com/kubrademirkaya)
 
 🏆 Featured Projects:
 - **[Handwriting Recognition Models]:** ([Project Link](https://github.com/kubrademirkaya/Handwriting-Recognition-Models))
